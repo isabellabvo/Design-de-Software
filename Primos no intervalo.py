@@ -1,8 +1,9 @@
 #---------ENUNCIADO---------#
 
 '''
-Faça uma função que recebe 4 números, x1, y1, x2, y2, e devolve a distância entre os pontos (x1,y1) e (x2,y2).
-O nome da sua função deve ser distancia_euclidiana.
+Faça uma função que recebe dois números a e b e devolve uma lista com todos os números primos p tais que a≤p≤b em ordem crescente.
+
+O nome da sua função deve ser primos_entre.
 '''
 
 #----------CÓDIGO-----------#
